@@ -1,10 +1,14 @@
+
+<img width="1163" alt="Screenshot 2025-02-08 at 23 51 28" src="https://github.com/user-attachments/assets/d1aaa78e-e93c-4708-bf61-26b57b276686" /><img width="1206" alt="Screenshot 2025-02-08 at 23 51 48" src="https://github.com/user-attachments/assets/bb6af9af-7deb-479f-9e7a-1df1a6a985e2" /><img width="1170" alt="Screenshot 2025-02-08 at 23 52 02" src="https://github.com/user-attachments/assets/a0edbced-62da-4570-b90c-3eb842878012" /><img width="1191" alt="Screenshot 2025-02-08 at 23 52 19" src="https://github.com/user-attachments/assets/94b117d1-cf8b-4c80-b33d-05b9d74f725a" /><img width="1162" alt="Screenshot 2025-02-08 at 23 52 34" src="https://github.com/user-attachments/assets/0a21250d-ee71-49bf-98ad-5e7dd63a256c" />
+
 ## Backroads App
 
-The Backroads App is a travel and tour booking application built with React. It provides users with an intuitive interface to explore and book various travel packages. The project is divided into two main versions:
+The Backroads App is a travel and tour booking landing page application built with React. It provides users with an intuitive interface to explore and book various travel packages. The project is divided into two main versions:
 
 - **backroads-js-version**: A working project using HTML, CSS, and JavaScript.
 - **backroads-react-version**: A fully functional React application.
-  **Online Live:**
+  
+**Online Live:**
 
 ### Features
 
